@@ -23,7 +23,7 @@
   <br>
   <br>
 
-  <div style="scale: 1.2; margin-left: 3rem;">
+  <div style="scale: 1.3; margin-left: 3rem;">
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=compact) 
 
