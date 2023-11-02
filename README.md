@@ -15,6 +15,9 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img align="center" alt="Mysql" src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
   </div>
 
   <br/>
@@ -26,7 +29,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=compact) 
 </div>
 
-  <div >
+  <div style="margin-left: 10rem;" >
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=donut-vertical)](https://github.com/Angelo-Santiago/github-readme-stats)
   </div>
