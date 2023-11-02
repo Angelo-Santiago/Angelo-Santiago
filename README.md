@@ -23,18 +23,10 @@
   <br/>
 
   <div>
-
-  <div>
-  
+    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=compact) 
     
-  </div>
-
-  <div style="margin-left: 10rem;" >
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=donut-vertical)](https://github.com/Angelo-Santiago/github-readme-stats)
-  </div>
-
+  <span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=donut-vertical)](https://github.com/Angelo-Santiago/github-readme-stats) </span>
   </div>
 
 
