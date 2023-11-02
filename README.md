@@ -24,9 +24,9 @@
 
   <div>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=compact) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=compact) <span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=donut-vertical)](https://github.com/Angelo-Santiago/github-readme-stats) </span>
     
-  <span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Santiago&layout=donut-vertical)](https://github.com/Angelo-Santiago/github-readme-stats) </span>
+  
   </div>
 
 
