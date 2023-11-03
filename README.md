@@ -1,7 +1,8 @@
-<p align="center">
-  <a href="https://github.com/Angelo-Santiago/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER%20;FULL-STACK%20;DEVELOPER%20FULL-STACK%20AND%20STUDYING%20CYBER-SECURITY%20FULL-STACK DEVELOPER;PROGRAMMER%20;YOUTUBER%20;FULL%2STACK%20DEVELOPER;3%2B%19YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🤖;I'm+Ângelo+Santiago;Full-Stack+Developer;Nice+to+meet+you!&center=true&size=26&color=#3B8C6E&background=FFFFFF00">
+  </a>
+</h1>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A2ngelo-santiago-a4b2a0260/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelu_santiago/)
