@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Angelo-Santiago/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER%20;TACK%20;FULL-STACK%20DEVELOPER%20AND%20APP%20DEVELOPER;FULL-STACK%20IDEVELOPER(AI);PROGRAMMER%20;YOUTUBER%20;FULL%2STACK%20DEVELOPER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER%20;TACK%20;FULL-STACK%20DEVELOPER%20AND%20APP%20DEVELOPER;FULL-STACK%20DEVELOPER;PROGRAMMER%20;YOUTUBER%20;FULL%2STACK%20DEVELOPER;3%2B%19YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A2ngelo-santiago-a4b2a0260/)
