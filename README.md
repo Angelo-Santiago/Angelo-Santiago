@@ -55,4 +55,9 @@
   ## 👨‍💻 Olá, me chamo Ângelo tenho 19 anos e sou um entusiasta da tecnologia e sobre tudo que ela pode ser capaz de fazer, com uma boa orientação e dedicação venho desenvolvendo habilidades no front-end e também no back end nas linguagens citadas acima
 
 
+570175f3-cb35-459d-a38e-28f9b21c4e1c
+
+  $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+
+
 
