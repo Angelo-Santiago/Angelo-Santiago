@@ -1,12 +1,6 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DBF227&height=140&section=header"/>
-</a>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🤖;I'm+Ângelo+Santiago;Full-Stack+Developer;Nice+to+meet+you!&center=true&size=26&color=DBF227&background=FFFFFF00">
-  </a>
-</h1>
-  
+</a>  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A2ngelo-santiago-a4b2a0260/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelu_santiago/)
 
